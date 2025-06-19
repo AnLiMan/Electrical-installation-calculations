@@ -7,8 +7,8 @@
 
 На втором листе происходит расчет гофры для проводов с листа "Расчеты". Алгоритм работы описан в файле "Формулы и алгоритмы.pdf"
 
-![Screen1](https://github.com/AnLiMan/Electrical-installation-calculations/blob/main/Скрины%20работы/Расчет гофры.png)
+![Screen1](https://github.com/AnLiMan/Electrical-installation-calculations/blob/main/Скрины%20работы/Расчет_гофры.png)
 
 На третьем и 4-м листат происходит построение графа жгута и расчет длин от точки (наприме разъема) до другой точки (например, наконечника)
 
-![Screen1](https://github.com/AnLiMan/Electrical-installation-calculations/blob/main/Скрины%20работы/Расчет жгута.png)
+![Screen1](https://github.com/AnLiMan/Electrical-installation-calculations/blob/main/Скрины%20работы/Расчет_жгута.png)
